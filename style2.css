@@ -1,0 +1,27 @@
+input.tw:focus{background: rgb(16, 244, 223);}
+
+div.a{
+position:absolute;
+bottom:30;
+left:300px;
+}
+
+h3.c{
+  font-size:3vh;
+}
+
+h1.d{
+  font-size:3vh;
+}
+
+h1.b{
+  float: left;
+  font-size:2vh;
+  color:#FF0000;
+}
+
+h2.e{
+  float: left;
+  font-size:2vh;
+  color:#FF0000;
+}

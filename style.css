@@ -1,0 +1,114 @@
+body{background: rgba(126, 193, 42, 0.8);
+
+}
+
+a.twi:link{color:rgb(11, 165, 241);}
+a.twi:visited{color:rgb(64, 125, 193);}
+a.twi:hover{color:rgb(160, 11, 242);}
+a.twi:active{color:rgb(10, 100, 233);}
+
+a.fma:link{color: rgb(244, 6, 6);}
+a.fma:visited{color: rgb(226, 255, 14);}
+a.fma:hover{color: rgb(250, 56, 132);}
+a.fma:active{color: rgb(10, 8, 8);}
+
+a.an:link{color: rgb(0, 19, 251);}
+a.an:visited{color: rgb(149, 35, 35);}
+a.an:hover{color: rgb(60, 7, 31);}
+a.an:active{color: rgb(221, 0, 199);}
+
+
+h1.name{
+  position:absolute;
+  top:0px; left:500px;
+  background: rgb(255, 245, 8);
+  color: #FF8000;
+  font-size: 3em;
+}
+
+div.a{
+  position:absolute;
+  top:150px;
+  right:200px;
+}
+
+div.b{
+  position:absolute;
+   top:610px;
+   right:260px;
+}
+
+div.c{
+  position:absolute;
+   top:190px;
+   right:130px;
+}
+
+iframe.douga{
+  width:480px;
+  height:315px;
+}
+
+div.d{
+  position:absolute;
+  top:660px;
+  right:80px;
+}
+
+div.e{
+    position:absolute;
+     top:660px;
+      right:400px;
+}
+
+img.imag{
+  width:300px;
+  height:300px;
+
+}
+  a.twi{
+   position:absolute;
+   top:55px;
+   left:200px;
+}
+
+div.hobby{
+  position:absolute;
+  bottom:10px;
+  left:200px;
+  font-size: 1.2em;
+}
+
+div.hobby2{
+position:absolute;
+ top:700px;
+ left:200px;
+ font-size: 1.2em;
+}
+
+div.basyo{
+  position:absolute;
+   left:200px;
+}
+
+h1.my{
+  font-size: 2em
+}
+
+h1.intro{
+  font-size: 1.5em;
+}
+
+h2.intro{
+  font-size: 1.5em;
+}
+h3.intro{
+  font-size: 1.5em;
+}
+
+a.an{
+  position:absolute;
+  top:1200px;
+  right:200px;
+  font-size: 1.3em
+}
