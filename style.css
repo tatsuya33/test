@@ -36,12 +36,16 @@ div.b{
   position:absolute;
    top:610px;
    right:260px;
+   widows: 300px;
+   height: 300px;
 }
 
 div.c{
   position:absolute;
    top:190px;
    right:130px;
+   widows: 300px;
+   height: 300px;
 }
 
 iframe.douga{
